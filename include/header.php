@@ -92,6 +92,16 @@
     float: right;
     display: inline-block;
 }
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+  background: #000;
+}
+
+.header .navbar-collapse {
+    padding: 0;
+    border-top: none;
+    max-height: 340px;
+    text-align: right;
+}
 
 
 @media (max-width: 767px){
@@ -102,62 +112,27 @@
 .topbar {
     display: block;
 }
-.zs-enabled {
-      height: 250px;
-    margin-top: 5px;
+.mcar{
+  min-height: 200px !important;
 }
 
-.mobcart {
-    position: absolute !important;
-    background: #ffa924;
-    top: 56px;
-    right: 5%;
-    padding: 5px 10px;
-    z-index: 9;
-}
-
-
-}
-
-
-@media (min-width: 768px){
-
-  .cartdd{
-    color: black;
-    padding: 10px;
-    top: 30px !important;
-    left: -320px !important;
-}
-
-@media (min-width: 992px){
-
-  .cartdd{
-    color: black;
-    padding: 10px;
-    top: 30px !important;
-    left: -350px !important;
-}
-
-}
-
-}
-
-.cartmenu{
-  position: relative;
-    z-index: 99999;
-}
-
-.navbar-toggle {
+.carousel-caption {
     position: absolute;
-    top: -60px;
-    }
+    top: 65%;
+    font-size: 13px !important;
+}
+
+.carousel-inner .item > img {
+    height: 160px;
+}
+
+.carousel-caption h3 {
+    font-size: 15px !important;
+}
 
 
-  .minicartimg{
-    width: 50px
-  }
-  td{
-    vertical-align: middle !important;
-    font-size: 14px
-  }
+
+
+}
+
 </style>
