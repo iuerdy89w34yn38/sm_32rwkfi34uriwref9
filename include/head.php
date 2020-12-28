@@ -189,8 +189,6 @@ if(isset($_SESSION['actid'])){
 <meta name="viewport" content="width=actid-width, initial-scale=1">
 
 
-
-
 <!-- PLUGINS CSS STYLE -->
 <link rel="icon" type="image/png" href="images/logo.png">
 <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -263,6 +261,13 @@ function substrwords($text, $maxchar, $end='...') {
 }
 
 ?>
+
+
+
+
+<meta property="og:title" content="<?php echo $sitename ?>" />
+<meta property="og:description" content="Provide financial and institutional services to strengthen and scale-up." />
+<meta property="og:image" content="images/logo.png" />
 
 
 
