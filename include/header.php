@@ -57,7 +57,7 @@
 
 
                     <li >
-                      <a href="index#services"></span>Services</a>
+                      <a href="index#products"></span>Products</a>
                     </li>
 
 

@@ -8,7 +8,7 @@
   <footer class="footer-v1">
 
 
-  <div class="menuFooter clearfix" style="background: #02aeee">
+  <div class="menuFooter clearfix" style="background: #000">
     <div class="">
       <div class="row clearfix" style="margin-right: 0px;    margin-left: 0px;    padding: 10px;">
     <div class="col-sm-4">

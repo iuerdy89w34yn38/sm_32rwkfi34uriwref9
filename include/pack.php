@@ -35,7 +35,7 @@
                             	<!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Basic</span>
+                                    <span>Standard</span>
                                 </div>
                                 <!--//HEAD END-->
                                 
@@ -46,7 +46,7 @@
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
                                     <span class="sign">$</span>
-                                    <span class="currency">99</span>
+                                    <span class="currency">1500</span>
                                     </span>
                             </div>
                             <!--//PRICE END-->
@@ -90,7 +90,7 @@
                             	<!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Standard</span>
+                                    <span>Premium</span>
                                 </div>
                                 <!--//HEAD END-->
                                 
@@ -101,8 +101,8 @@
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
                                     <span class="sign">$</span>
-                                    <span class="currency">199</span>
-                                    <span class="cent">.99</span>
+                                    <span class="currency">2500</span>
+                                    <!-- <span class="cent">.99</span> -->
                                 </span>
                             </div>
                             <!--//PRICE END-->
@@ -147,7 +147,7 @@
                             	<!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Premium</span>
+                                    <span>Executive</span>
                                 </div>
                                 <!--//HEAD END-->
                                 
@@ -158,8 +158,7 @@
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
                                     <span class="sign">$</span>
-                                    <span class="currency">299</span>
-                                    <span class="cent">.99</span>
+                                    <span class="currency">3500</span>
                                 </span>
                             </div>
                             <!--//PRICE END-->
@@ -283,7 +282,7 @@ body{background-color:#eee;}
     color: #fff;
 } 
 #generic_price_table{
-    margin: 50px 0 50px 0;
+    margin: 0px 0 0px 0;
     font-family: 'Raleway', sans-serif;
 }
 .row .table{

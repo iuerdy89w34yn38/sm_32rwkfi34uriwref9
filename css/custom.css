@@ -193,6 +193,14 @@ a, a:hover, .header .navbar-default .navbar-nav li a:hover, .header .navbar-defa
     box-shadow: 3px 3px 3px #dc8315;
 }
 
+.parallex{
+    min-height: 500px;
+    background-attachment: fixed !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
 
 
 

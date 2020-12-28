@@ -31,13 +31,10 @@
     <br><br>
 
    <section class="customer-logos slider">
+      <div class="slide"><img src="images/products/logosdb.png"></div>
+      <div class="slide"><img src="images/products/logosig.png"></div>
       <div class="slide"><img src="images/products/logosam.png"></div>
-      <div class="slide"><img src="images/products/logosig.png"></div>
-      <div class="slide"><img src="images/products/logosdb.png"></div>
- <div class="slide"><img src="images/products/logosam.png"></div>
-      <div class="slide"><img src="images/products/logosig.png"></div>
-      <div class="slide"><img src="images/products/logosdb.png"></div>
-
+ 
    </section>
    
 </div>
