@@ -267,7 +267,7 @@ function substrwords($text, $maxchar, $end='...') {
 
 <meta property="og:title" content="<?php echo $sitename ?>" />
 <meta property="og:description" content="Provide financial and institutional services to strengthen and scale-up." />
-<meta property="og:image" content="images/logo.png" />
+<meta property="og:image" content="https://demo.wilcode.com/sm/images/logo.png" />
 
 
 
