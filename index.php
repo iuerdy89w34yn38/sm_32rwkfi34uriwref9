@@ -110,7 +110,7 @@
 
                         <div class="slidei"><img src="images/products/logosam.png"></div>
                               <br>
-                      <span>Swift Assets Management </span>
+                      <span>Swift Asset Management </span>
                       <p>leading asset management platform  </p>
                       <br>
 

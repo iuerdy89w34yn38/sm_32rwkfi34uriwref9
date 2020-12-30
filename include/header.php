@@ -60,9 +60,9 @@
                     <li class="dropdown"  >
                       <a href="index#products"></span>Products</a>
                         <ul class="dropdown-menu">
-                        <li><a href="#"><img src="images/products/logosdb.png" class="mimg"></a></li>
-                        <li><a href="#"><img src="images/products/logosig.png" class="mimg"></a></li>
-                        <li><a href="#"><img src="images/products/logosam.png" class="mimg"></a></li>
+                        <li><a href="#">Swift Digital Banking</a></li>
+                        <li><a href="#">Swift Investments Group</a></li>
+                        <li><a href="#">Swift Asset Management</a></li>
                       </ul>
 
 
@@ -72,8 +72,8 @@
 
                     <li  class="dropdown">
                       <a href="index#products"></span>Packages</a>
-                           <ul class="dropdown-menu">
-                        <li><a href="#">Basic</a></li>
+                           <ul class="dropdown-menu bold">
+                        <li><a href="#">Standard</a></li>
                         <li><a href="#">Premium</a></li>
                         <li><a href="#">Executive</a></li>
                       </ul>
@@ -86,7 +86,7 @@
                     <li  class="dropdown">
                       <a href="index#products"></span>Platform</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">D-Platform</a></li>
+                        <li><a href="#">D-Trade</a></li>
                       </ul>
 
                     </li>
@@ -96,7 +96,7 @@
                     <li  class="dropdown">
                       <a href="index#products"></span>Wallet</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">D-Wallet</a></li>
+                        <li><a href="#">Swift (E-Wallet)</a></li>
                       </ul>
 
                     </li>
@@ -146,6 +146,16 @@
 
 .mimg{
   width: 100px;
+}
+
+.navbar-nav li.dropdown .dropdown-menu li a {
+    border: none;
+    text-align: center;
+    font-weight: 900;
+}
+.header .navbar-nav li.dropdown .dropdown-menu li a {
+    font-size: 13px;
+    font-weight: 900;
 }
 
 
