@@ -51,13 +51,54 @@
                   <ul class="nav navbar-nav navigation">
 
 
-                    <li >
+                    <li>
                       <a href="index#about"></span>About Us</a>
+                 
                     </li>
 
 
-                    <li >
+                    <li class="dropdown"  >
                       <a href="index#products"></span>Products</a>
+                        <ul class="dropdown-menu">
+                        <li><a href="#"><img src="images/products/logosdb.png" class="mimg"></a></li>
+                        <li><a href="#"><img src="images/products/logosig.png" class="mimg"></a></li>
+                        <li><a href="#"><img src="images/products/logosam.png" class="mimg"></a></li>
+                      </ul>
+
+
+                    </li>
+
+
+
+                    <li  class="dropdown">
+                      <a href="index#products"></span>Packages</a>
+                           <ul class="dropdown-menu">
+                        <li><a href="#">Basic</a></li>
+                        <li><a href="#">Premium</a></li>
+                        <li><a href="#">Executive</a></li>
+                      </ul>
+
+
+                    </li>
+
+
+
+                    <li  class="dropdown">
+                      <a href="index#products"></span>Platform</a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">D-Platform</a></li>
+                      </ul>
+
+                    </li>
+
+
+
+                    <li  class="dropdown">
+                      <a href="index#products"></span>Wallet</a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">D-Wallet</a></li>
+                      </ul>
+
                     </li>
 
 
@@ -101,6 +142,10 @@
     border-top: none;
     max-height: 340px;
     text-align: right;
+}
+
+.mimg{
+  width: 100px;
 }
 
 

@@ -57,6 +57,8 @@
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                         	<ul>
+                                <li><span>Access</span> Swift Digital Banking </li>
+                                <li><span>100$</span> Per Month for 1 Year </li>
                                 <li><span>Compound</span> Benefits </li>
                                 <li><span>100%</span> Disciplined Saving</li>
                                 <li><span>Easy Access</span> to Wallet</li>
@@ -113,8 +115,11 @@
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                         	<ul>
+
+                                <li><span>Access</span> Swift Digital Banking </li>
+                                <li><span>Access</span> Swift Investment Group </li>
+                                <li><span>200$</span> Per Month for 1 Year </li>
                                 <li><span>Compound</span> Benefits </li>
-                                <li><span>Tax </span> Flexibility Rebates </li>
                                 <li><span>Long-Term</span> Gains</li>
                                 <li><span>100%</span> Disciplined Saving</li>
                                 <li><span>Easy Access</span> to Wallet</li>
@@ -169,6 +174,11 @@
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                         	<ul>
+                                <li><span>Access</span> Swift Digital Banking </li>
+                                <li><span>Access</span> Swift Digital Banking </li>
+                                <li><span>Access</span> Swift Assets Management </li>
+                                <li><span>300$</span> Per Month for 1 Year </li>
+
                             	<li><span>Compound</span> Benefits </li>
                                 <li><span>Long-Term</span> Gains</li>
                                 <li><span>100%</span> Disciplined Saving</li>
