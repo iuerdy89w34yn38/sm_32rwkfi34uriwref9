@@ -58,7 +58,6 @@
                         <div class="generic_feature_list">
                         	<ul>
                                 <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>100$</span> Per Month for 1 Year </li>
                                 <li><span>Compound</span> Benefits </li>
                                 <li><span>100%</span> Disciplined Saving</li>
                                 <li><span>Easy Access</span> to Wallet</li>
@@ -117,8 +116,7 @@
                         	<ul>
 
                                 <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> Swift Investment Group </li>
-                                <li><span>200$</span> Per Month for 1 Year </li>
+                                <li><span>Access</span> Swift Investments Group </li>
                                 <li><span>Compound</span> Benefits </li>
                                 <li><span>Long-Term</span> Gains</li>
                                 <li><span>100%</span> Disciplined Saving</li>
@@ -175,9 +173,8 @@
                         <div class="generic_feature_list">
                         	<ul>
                                 <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> Swift Assets Management </li>
-                                <li><span>300$</span> Per Month for 1 Year </li>
+                                <li><span>Access</span> Swift Investments Gruop </li>
+                                <li><span>Access</span> Swift Asset Management </li>
 
                             	<li><span>Compound</span> Benefits </li>
                                 <li><span>Long-Term</span> Gains</li>
@@ -258,12 +255,13 @@ body{background-color:#eee;}
     color: #414141;
 }
 
-#generic_price_table .generic_content .generic_feature_list ul li{  
-    color: #a7a7a7;
+#generic_price_table .generic_content .generic_feature_list ul li {
+    color: #000000;
 }
 
-#generic_price_table .generic_content .generic_feature_list ul li span{
-    color: #414141;
+#generic_price_table .generic_content .generic_feature_list ul li span {
+    color: #000000;
+    font-weight: 900;
 }
 #generic_price_table .generic_content .generic_feature_list ul li:hover{
     background-color: #E4E4E4;

@@ -86,7 +86,7 @@
                     <li  class="dropdown">
                       <a href="index#products"></span>Platform</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">D-Trade</a></li>
+                        <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
                       </ul>
 
                     </li>
@@ -143,6 +143,17 @@
     max-height: 340px;
     text-align: right;
 }
+
+.header .navbar-nav li.dropdown .dropdown-menu li a {
+    font-size: 13px;
+    font-weight: 900;
+    color: #fff;
+}
+
+.header .navbar-nav li.dropdown .dropdown-menu {
+    min-width: 200px;
+    background: #000;
+  }
 
 .mimg{
   width: 100px;
