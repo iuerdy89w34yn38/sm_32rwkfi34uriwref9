@@ -76,10 +76,10 @@
   <div class="footer clearfix" style="background: #000; color: #fff " >
     <div class="container">
       <div class="row clearfix">
-        <div class="col-sm-6 col-xs-12 ">
-          <p>© 2020 <?php echo $sitename ?> </p>
+        <div class="col-sm-8 col-xs-12 ">
+          <p>© 2020 <?php echo $sitename ?>  - Powered By: <a href="https://wilcode.com/" target="blank" style="color: deepskyblue">WilCode</a> </p>
         </div><!-- col-sm-6 col-xs-12 -->
-        <div class="col-sm-6 col-xs-12 privacy_policy">
+        <div class="col-sm-4 col-xs-12 privacy_policy">
            <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-google"></a>
