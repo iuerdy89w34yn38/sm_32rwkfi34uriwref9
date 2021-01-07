@@ -3,6 +3,7 @@ session_start();
 if(isset($_SESSION['actid'])){
   header("location:profile.php");
 }
+error_reporting(false);
 ?>
 
 
@@ -29,11 +30,14 @@ if(isset($_SESSION['actid'])){
 
 		<!-- Header
 		============================================= -->
-		<?php 	include 'include/header.php'; ?>
+		<?php //	include 'include/header.php'; ?>
 
 	
 
+ <div class="img">
+            <img src="images/covers/l.png">
 
+          </div>
 		<!-- Content
 		============================================= -->
 		<section id="content">
@@ -42,12 +46,16 @@ if(isset($_SESSION['actid'])){
 
 				<div class="container clearfix">
 
-<div class="row">
-<div class="col-md-3">
-</div>
+
+<div class="row ">
+
 <div class="col-md-6">
 
-	
+	<style type="text/css">
+   input{
+    text-align: center;
+   } 
+  </style>
 
 
 						<div class="tab-container">
@@ -58,18 +66,24 @@ if(isset($_SESSION['actid'])){
 										<form action="" method="post">
 								
 											<h1 class="text-center">
-          <a href="">Login</a> - <a href="signup.php"> Sign Up </a>
+       <h2 class="text-center">   <a href="#">Login</a> </h2>
+       <br>
         </h1>
-        <form action="" method="post">
+        <form >
           <div class="form-group">
-            <input type="email" class="form-control" name="username" placeholder="Email" type="text">
+            <input type="email" class="form-control" name="username" placeholder="‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏M-ID" type="text">
           </div>
           <div class="form-group">
             <input class="form-control" name="password" placeholder="Password" type="password">
           </div>
+          <div class="form-group">
+            <input type="checkbox"> Remember Me
+            <br>
+            <a href="#">Forgot Password </a>
+          </div>
           <div class="form-group text-center">
 
-            <input type="submit" name="login" class="btn bgcolor" value="Submit >">
+            <input type="submit" name="login" class="form-control btn bgcolor" value="Login">
           </div>
           
         </form>
@@ -127,14 +141,24 @@ if(isset($_SESSION['actid'])){
 
 
 									</div>
+
+
 								</div>
+
 							</div>
+
 
 
 
 						</div>
 
 					</div>
+             <div class="col-md-6">
+              <br><br>
+              <br><br>
+              <br>
+                   <a href="#" class="form-control btn bgcolor"> Register Now </a>
+                  </div>
 
 				</div>
 
@@ -166,7 +190,7 @@ if(isset($_SESSION['actid'])){
 		<!-- Footer
 		============================================= -->
 	
-		<?php 	include 'include/footer.php'; ?>
+		<?php //	include 'include/footer.php'; ?>
 
 			
 	</div><!-- #wrapper end -->

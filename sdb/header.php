@@ -23,7 +23,7 @@
 
 
                     <li>
-                      <a href="#about"></span>About Us</a>
+                      <a href="index#about"></span>About Us</a>
                  
                     </li>
 

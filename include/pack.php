@@ -62,7 +62,7 @@
                                 <li><span>Easy Access</span> to Swift E-Wallet</li>
                                 <li><span>Compound</span> Benefits </li>
 
-                                <li><span>100%</span> Disciplined Saving</li>
+                                <li><span>Access</span> Newsletter</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>
