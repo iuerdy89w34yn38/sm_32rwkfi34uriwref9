@@ -58,11 +58,11 @@
                         <div class="generic_feature_list">
                         	<ul>
                                 <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Compound</span> Benefits </li>
                                 <li><span>Access</span> D-Trade</li>
-                                <li><span>Access</span> Swift E-Wallet</li>
+                                <li><span>Easy Access</span> to Swift E-Wallet</li>
+                                <li><span>Compound</span> Benefits </li>
+
                                 <li><span>100%</span> Disciplined Saving</li>
-                                <li><span>Easy Access</span> to Wallet</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>
@@ -119,12 +119,13 @@
 
                                 <li><span>Access</span> Swift Digital Banking </li>
                                 <li><span>Access</span> Swift Investments Group </li>
-                                <li><span>Compound</span> Benefits </li>
                                 <li><span>Access</span> D-Trade</li>
-                                <li><span>Access</span> Swift E-Wallet</li>
+                                <li><span>Easy Access</span> to Swift E-Wallet</li>
+
+                                <li><span>Compound</span> Benefits </li>
+
                                 <li><span>Long-Term</span> Gains</li>
                                 <li><span>100%</span> Disciplined Saving</li>
-                                <li><span>Easy Access</span> to Wallet</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>
@@ -180,12 +181,13 @@
                                 <li><span>Access</span> Swift Investments Gruop </li>
                                 <li><span>Access</span> Swift Asset Management </li>
 
-                            	<li><span>Compound</span> Benefits </li>
+                                <li><span>Easy Access</span> to Swift E-Wallet</li>
+
                                 <li><span>Access</span> D-Trade</li>
-                                <li><span>Access</span> Swift E-Wallet</li>
+                                <li><span>Compound</span> Benefits </li>
+                                
                                 <li><span>Long-Term</span> Gains</li>
                                 <li><span>100%</span> Disciplined Saving</li>
-                                <li><span>Easy Access</span> to Wallet</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>

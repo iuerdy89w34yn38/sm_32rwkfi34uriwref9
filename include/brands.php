@@ -31,7 +31,7 @@
     <br><br>
 
    <section class="customer-logos slider">
-      <div class="slide"><img src="images/products/logosdb.png"></div>
+      <div class="slide"><a href="digital-banking"><img src="images/products/logosdb.png"></a></div>
       <div class="slide"><img src="images/products/logosig.png"></div>
       <div class="slide"><img src="images/products/logosam.png"></div>
  

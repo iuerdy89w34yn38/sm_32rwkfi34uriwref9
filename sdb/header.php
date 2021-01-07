@@ -7,7 +7,7 @@
             <div class="col-xs-12">
               <div class="header_inner">
 
-                <a class="navbar-brand logo clearfix cuslogo" href="index"><img src="images/<?php echo $sitelogo; ?>" alt="" class="img-responsive cuslogo" ></a>
+                <a class="navbar-brand logo clearfix cuslogo" href="index"><img src="images/products/logosdb.png" class="img-responsive" style="width: 75%;" ></a>
                 <div class="navbar-header">
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
                   <span class="sr-only">Toggle navigation</span>
@@ -23,30 +23,29 @@
 
 
                     <li>
-                      <a href="index#about"></span>About Us</a>
+                      <a href="#about"></span>About Us</a>
                  
                     </li>
 
 
+
                     <li class="dropdown"  >
-                      <a href="index#products"></span>Products</a>
+                      <a href="#acct"></span>Account Types</a>
                         <ul class="dropdown-menu">
-                        <li><a href="digital-banking">Swift Digital Banking</a></li>
-                        <li><a href="#">Swift Investments Group</a></li>
-                        <li><a href="#">Swift Asset Management</a></li>
+                        <li><a href="#">Current Account </a></li>
+                        <li><a href="#">Savings Account</a></li>
                       </ul>
 
 
                     </li>
 
 
-
-                    <li  class="dropdown">
-                      <a href="index#products"></span>Packages</a>
-                           <ul class="dropdown-menu bold">
-                        <li><a href="#">Standard</a></li>
-                        <li><a href="#">Premium</a></li>
-                        <li><a href="#">Executive</a></li>
+                    <li class="dropdown"  >
+                      <a href="#acct"></span>Bonds</a>
+                        <ul class="dropdown-menu">
+                        <li><a href="#">Fixed  Bonds  </a></li>
+                        <li><a href="#">Saving  Bonds  </a></li>
+                        <li><a href="#">Class  Bonds </a></li>
                       </ul>
 
 
@@ -74,7 +73,7 @@
 
 
                     <li >
-                      <a href="index#contactus"></span>Contact Us</a>
+                      <a href="#contactus"></span>Contact Us</a>
                     </li>
 
 
