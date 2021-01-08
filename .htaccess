@@ -9,6 +9,9 @@ RewriteEngine On
 RewriteRule ^(home)$ index.php
 RewriteRule ^(index)$ index.php
 RewriteRule ^(digital-banking)$ sdb.php
+RewriteRule ^(investment-group)$ sig.php
+RewriteRule ^(assets-management)$ sam.php
+
 
 # Rewrite for index.php,cars.php,...
 

@@ -7,7 +7,7 @@
             <div class="col-xs-12">
               <div class="header_inner">
 
-                <a class="navbar-brand logo clearfix cuslogo" href="index"><img src="images/<?php echo $sitelogo; ?>" alt="" class="img-responsive cuslogo" ></a>
+                <a class="navbar-brand logo clearfix cuslogo" href="index"><img src="images/products/logosig.png" class="img-responsive" style="width: 75%;" ></a>
                 <div class="navbar-header">
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
                   <span class="sr-only">Toggle navigation</span>
@@ -28,34 +28,12 @@
                     </li>
 
 
-                    <li class="dropdown"  >
-                      <a href="index#products"></span>Products</a>
-                        <ul class="dropdown-menu">
-                        <li><a href="digital-banking">Swift Digital Banking</a></li>
-                        <li><a href="investment-group">Swift Investments Group</a></li>
-                        <li><a href="assets-management">Swift Asset Management</a></li>
-                      </ul>
 
-
-                    </li>
 
 
 
                     <li  class="dropdown">
-                      <a href="index#products"></span>Packages</a>
-                           <ul class="dropdown-menu bold">
-                        <li><a href="#">Standard</a></li>
-                        <li><a href="#">Premium</a></li>
-                        <li><a href="#">Executive</a></li>
-                      </ul>
-
-
-                    </li>
-
-
-
-                    <li  class="dropdown">
-                      <a href="index#products"></span>Platform</a>
+                      <a href="login"></span>Platform</a>
                       <ul class="dropdown-menu">
                         <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
                       </ul>
@@ -65,7 +43,7 @@
 
 
                     <li  class="dropdown">
-                      <a href="index#products"></span>Wallet</a>
+                      <a href="login"></span>Wallet</a>
                       <ul class="dropdown-menu">
                         <li><a href="#">Swift (E-Wallet)</a></li>
                       </ul>
@@ -73,8 +51,9 @@
                     </li>
 
 
+
                     <li >
-                      <a href="index#contactus"></span>Contact Us</a>
+                      <a href="#contactus"></span>Contact Us</a>
                     </li>
 
 

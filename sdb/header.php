@@ -52,9 +52,8 @@
                     </li>
 
 
-
                     <li  class="dropdown">
-                      <a href="index#products"></span>Platform</a>
+                      <a href="login"></span>Platform</a>
                       <ul class="dropdown-menu">
                         <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
                       </ul>
@@ -64,12 +63,13 @@
 
 
                     <li  class="dropdown">
-                      <a href="index#products"></span>Wallet</a>
+                      <a href="login"></span>Wallet</a>
                       <ul class="dropdown-menu">
                         <li><a href="#">Swift (E-Wallet)</a></li>
                       </ul>
 
                     </li>
+
 
 
                     <li >
