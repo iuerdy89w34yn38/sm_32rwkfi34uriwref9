@@ -8,6 +8,7 @@ RewriteEngine On
 
 RewriteRule ^(home)$ index.php
 RewriteRule ^(index)$ index.php
+RewriteRule ^(login)$ login.php
 RewriteRule ^(digital-banking)$ sdb.php
 RewriteRule ^(investment-group)$ sig.php
 RewriteRule ^(assets-management)$ sam.php
