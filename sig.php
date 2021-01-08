@@ -10,7 +10,21 @@
 
   <?php if(empty($_GET['page_name'])) $link ='home';  ?>
 
+<style type="text/css">
+  
+  .topbar{
+    background: #000 !important;
+  }
+  .header .navbar-default .navbar-nav li.apply_now a:hover {
+    background: #fff !important;
+    border: 1px #000 solid !important;
+    color: #000 !important;
+}
+.header .navbar-default .navbar-nav li.apply_now a {
+    background: #000 !important;
+    border: 1px #000 solid;
 
+</style>
 </head>
 
 <body class="body-wrapper">
@@ -23,24 +37,26 @@
 
 
 
-    <div id="wallet" style="background: url('images/sdb/1.png');background-size: cover;padding: 30px;background-position: center;">
+    <div id="wallet" style="background: url('images/sig/2.jpg');background-size: cover;padding: 50px;background-position: center;">
       <div class="container">
       <div class="row" style="">
 
-
-        <div class="col-md-2" style="text-align: left;">
-        </div>
-        <div class="col-md-8" style="text-align: center; background: #ffffff69">
+        <div class="col-md-6" style="text-align: center; background:">
           <br>  
-          <h2 style="color: #000">About Digital Banking</h2>
+          <h2 style="color: #fff">Swift Investments Group</h2>
           <br>
 
-          <p style="color: #000">
-            Swift E-Wallet offer financial service providers the ability to meet the transaction needs and demands of the modern-day consumer. It is a flexible and scalable solution that can be seamlessly integrated into our bank’s core banking system. Our solution is easy to deploy; it can be deployed in the cloud and on-premise. It is a robust, secure and well-integrated mobile payment solution that helps to achieve financial inclusion, improved payments, and enhanced service delivery.
+          <p style="color: #fff">
+            Investing can be a daunting prospect for beginners, with an enormous variety of possible assets to add to a portfolio.
 
             <br>
             <br>
-            P2P Fund Transfer<br>
+The investment "risk ladder" identifies asset classes based on their relative riskiness, with cash being the most stable and alternative investments often being the most volatile.
+Sticking with index funds or exchange traded funds that mirror the market is often the best path for a new investor.
+
+
+            <br>
+            <br>
 It allows for an easy, quick and convenient way to perform a peer-to-peer transfer. Your customers can transfer money to another wallet customers.
             <br>
 
@@ -61,19 +77,12 @@ It allows for an easy, quick and convenient way to perform a peer-to-peer transf
 
 
 
-    <?php include 'sdb/accounts.php'; ?>
+    <?php include 'sig/contracts.php'; ?>
 
 
 
    
 
-
-
-    <?php include 'sdb/bonds.php'; ?>
-
-
-
-   
 
 
 

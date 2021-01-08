@@ -31,6 +31,18 @@
 
 
                     <li  class="dropdown">
+                      <a href="#"></span>Investmets</a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#"> Stocks</a></li>
+                        <li><a href="#"> Comodities</a></li>
+                        <li><a href="#"> Currencies</a></li>
+                        <li><a href="#"> ETF's</a></li>
+                      </ul>
+
+                    </li>
+
+
+                    <li  class="dropdown">
                       <a href="login"></span>Platform</a>
                       <ul class="dropdown-menu">
                         <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
@@ -46,6 +58,12 @@
                         <li><a href="#">Swift (E-Wallet)</a></li>
                       </ul>
 
+                    </li>
+
+
+
+                    <li >
+                      <a href="#contactus"></span>News</a>
                     </li>
 
 

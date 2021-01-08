@@ -35,7 +35,7 @@ error_reporting(false);
 	
 
  <div class="img">
-            <img src="images/covers/l.png">
+            <img src="images/covers/c.jpg" style="width: 100%">
 
           </div>
 		<!-- Content

@@ -74,6 +74,11 @@
 
 
                     <li >
+                      <a href="#contactus"></span>News</a>
+                    </li>
+
+
+                    <li >
                       <a href="index#contactus"></span>Contact Us</a>
                     </li>
 

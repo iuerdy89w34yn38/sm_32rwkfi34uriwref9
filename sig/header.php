@@ -33,6 +33,18 @@
 
 
                     <li  class="dropdown">
+                      <a href="#"></span>Contracts</a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">Fixed Income</a></li>
+                        <li><a href="#">Non-Fixed Income</a></li>
+                      </ul>
+
+                    </li>
+
+
+
+
+                    <li  class="dropdown">
                       <a href="login"></span>Platform</a>
                       <ul class="dropdown-menu">
                         <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
@@ -51,6 +63,10 @@
                     </li>
 
 
+
+                    <li >
+                      <a href="#contactus"></span>News</a>
+                    </li>
 
                     <li >
                       <a href="#contactus"></span>Contact Us</a>
