@@ -10,19 +10,12 @@
         <div class="col-sm-2 col-xs-12 borderLeft">
           <h5>Quick Links</h5>
           <ul class="menuLink">
-          <?php
-
-          $rows =mysqli_query($con,"SELECT name,slug,res FROM pages where foot=1  ORDER BY ordr" ) or die(mysqli_error($con));
-                    
-            while($row=mysqli_fetch_array($rows)){
-              
-              $slug = $row['slug']; 
-              $name = $row['name']; 
-              $res = $row['res']; 
-
-              ?>
-            <li <?php if($slug=='videos') echo ' style="display:none;" ' ; ?> ><a href="<?php echo $slug ?>"><?php echo $name ?></a></li>
-                    <?php } ?>
+                             <li  ><a href="page-about">About Us</a></li>
+                                <li  ><a href="blogs">Blogs</a></li>
+                                <li  ><a href="page-privacy-policy">Privacy Policy</a></li>
+                                <li  ><a href="page-terms-of-services">Terms of Services</a></li>
+                                <li  ><a href="contactus">Contact Us</a></li>
+                              </ul>
           </ul>
           <br>
           <br>

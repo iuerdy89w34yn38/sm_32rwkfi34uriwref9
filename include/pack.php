@@ -58,9 +58,9 @@
                         <div class="generic_feature_list">
                         	<ul>
                                 <li><span></span> Swift Digital Banking </li>
-                                <li><span></span> D-Trade</li>
                                 <li><span></span> Swift E-Wallet</li>
-                                <li><span></span>Compound Benefits </li>
+                                <li><span></span> D-Trade</li>
+                                <li><span></span>Long-Term Gains</li>
 
                                 <li><span></span> News and Analysis</li>
                                 <li><span>24/7</span> Support</li>
@@ -119,10 +119,10 @@
 
                                 <li><span></span> Swift Digital Banking </li>
                                 <li><span></span> Swift Investments Group </li>
-                                <li><span></span> D-Trade</li>
                                 <li><span> </span> Swift E-Wallet</li>
 
-                                <li><span></span>Compound Benefits </li>
+                                <li><span></span> D-Trade</li>
+
                                 <li><span></span>Long-Term Gains</li>
                                 <li><span></span> News and Analysis</li>
 
@@ -182,9 +182,7 @@
                                 <li><span></span> Swift Asset Management </li>
 
                                 <li><span> </span> Swift E-Wallet</li>
-
                                 <li><span></span> D-Trade</li>
-                                <li><span></span>Compound Benefits </li>
                                 
                                 <li><span></span>Long-Term Gains</li>
                                 <li><span></span> News and Analysis</li>

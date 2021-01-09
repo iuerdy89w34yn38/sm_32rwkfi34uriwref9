@@ -40,7 +40,7 @@ error_reporting(false);
           </div>
 		<!-- Content
 		============================================= -->
-		<section id="content"  style="background:url(images/cbg.jpg);background-position: bottom; background-size: cover; min-height: 430px">
+		<section id="content"  style="background:url(images/cbg.jpg);background-position: bottom; background-size: cover; min-height: 420px">
 
 			<div class="content-wrap">
 

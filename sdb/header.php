@@ -77,10 +77,6 @@
                     </li>
 
 
-                    <li >
-                      <a href="#contactus"></span>Contact Us</a>
-                    </li>
-
 
                     <li class="apply_now">
                       <a href="login"></span>Login / Signup</a>

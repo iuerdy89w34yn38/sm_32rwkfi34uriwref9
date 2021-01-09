@@ -86,20 +86,6 @@ It allows for an easy, quick and convenient way to perform a peer-to-peer transf
 
 
 
-    <?php include 'include/dtrade.php'; ?>
-
-
-
-   
-
-
-
-    <?php include 'include/wallet.php'; ?>
-
-
-
-   
-
 
 
      <div id="contactus">
