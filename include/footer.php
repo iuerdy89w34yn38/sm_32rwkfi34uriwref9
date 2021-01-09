@@ -26,7 +26,7 @@
         <div class="col-sm-3 col-xs-6 borderLeft">
           <div class="">
 
-           <?php echo $gmaps ?>
+           <?php // echo $gmaps ?>
           </div>
         </div><!-- col-sm-3 col-xs-6 -->
 
