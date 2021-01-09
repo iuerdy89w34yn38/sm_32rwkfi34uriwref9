@@ -25,6 +25,18 @@
         
         <div class="col-sm-3 col-xs-6 borderLeft">
           <div class="">
+          <h5>Products Links</h5>
+          <ul class="menuLink">
+                        <li><a href="digital-banking">Swift Digital Banking</a></li>
+                        <li><a href="investment-group">Swift Investments Group</a></li>
+                        <li><a href="assets-management">Swift Asset Management</a></li>
+                              </ul>
+          </ul>
+
+
+                        </p>
+                        
+
 
            <?php // echo $gmaps ?>
           </div>
@@ -34,10 +46,9 @@
           <div class="footer-address">
             <div class="socialArea">
           </div>
-           <p>
-                            <strong><i class="fa fa-map-marker"></i> Address:</strong> <br>
-                            <?php echo $siteaddress ?> 
-              </p>
+
+
+
                         <p>
                           <strong><i class="fa fa-phone"></i> Call Us:</strong> <br> 
                             <?php echo $sitephone ?> <br>
