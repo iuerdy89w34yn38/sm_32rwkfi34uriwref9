@@ -14,7 +14,7 @@ error_reporting(false);
 	<?php include 'include/head.php'; ?>
 	<!-- Document Title
 	============================================= -->
-	<title>Login</title>
+<title> Contact Us - <?php echo $sitename ?> </title>
 
 	<?php $link="blank" ?>
 
