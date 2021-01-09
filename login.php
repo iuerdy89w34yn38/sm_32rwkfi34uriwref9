@@ -14,7 +14,8 @@ error_reporting(false);
 	<?php include 'include/head.php'; ?>
 	<!-- Document Title
 	============================================= -->
-	<title>Login</title>
+  
+  <title> Login - <?php echo $sitename ?> </title>
 
 	<?php $link="blank" ?>
 
@@ -66,7 +67,7 @@ error_reporting(false);
 										<form action="" method="post">
 								
 											<h1 class="text-center">
-       <h2 class="text-center">   <a href="#">Login</a> </h2>
+       <h2 class="text-center">   <a href="#">LOGIN</a> </h2>
        <br>
         </h1>
         <form >

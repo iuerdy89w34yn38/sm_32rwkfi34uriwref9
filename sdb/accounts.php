@@ -3,8 +3,13 @@
     <div id="wallet" class="parallex" style="background: url('images/sdb/bk.jpg');">
       <div class="container">
       <div class="row">
+          <br>
+          <br>
+          <br>
 
-        <div class="col-md-3" style="text-align: left;">
+
+
+        <div class="col-md-6" style="text-align: left; background: #ffffff97">
           <br>
           <br>  
           <h2 style="color: #000">SDB Accounts Types</h2>
@@ -31,9 +36,7 @@ It allows for an easy, quick and convenient way to  A bank account which is a fi
             </ul>
             <br>
             <br>
-          <br>
-          <br>
-            <br>
+
 
           </p>
 
@@ -41,6 +44,8 @@ It allows for an easy, quick and convenient way to  A bank account which is a fi
 
       </div>
     </div>
-
+          <br>
+          <br>
+            <br>
 
     </div>

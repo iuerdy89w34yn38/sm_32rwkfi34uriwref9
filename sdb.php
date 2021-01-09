@@ -23,16 +23,16 @@
 
 
 
-    <div id="wallet" style="background: url('images/sdb/1.png');background-size: cover;padding: 30px;background-position: center;">
+    <div id="wallet"  class="parallex" style="background: url('images/sdb/bk.jpg');background-size: cover;padding: 30px;background-position: center; border-bottom: 2px solid #000">
       <div class="container">
       <div class="row" style="">
 
 
-        <div class="col-md-2" style="text-align: left;">
+        <div class="col-md-6" style="text-align: left;">
         </div>
-        <div class="col-md-8" style="text-align: center; background: #ffffff69">
+        <div class="col-md-6" style="text-align: center; background: #ffffff97">
           <br>  
-          <h2 style="color: #000">About Digital Banking</h2>
+          <h2 style="color: #000">Swift Digital Banking</h2>
           <br>
 
           <p style="color: #000">
@@ -57,8 +57,6 @@ It allows for an easy, quick and convenient way to perform a peer-to-peer transf
 
 
     </div>
-
-
 
 
     <?php include 'sdb/accounts.php'; ?>

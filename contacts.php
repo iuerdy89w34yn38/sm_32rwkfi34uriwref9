@@ -73,7 +73,7 @@ error_reporting(false);
 										<form action="" method="post">
 								
 											<h1 class="text-center">
-       <h2 class="text-center">   <a href="#">WE ARE READY TO LEAD YOU INTO THE FUTURE</a> </h2>
+       <h2 class="text-center" style="font-size: 15px;  color: #02aeee;">   WE ARE READY TO LEAD YOU INTO THE FUTURE </h2>
        <br>
         </h1>
         <form >
