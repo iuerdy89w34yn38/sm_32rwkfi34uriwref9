@@ -57,12 +57,12 @@
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                         	<ul>
-                                <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> D-Trade</li>
-                                <li><span>Easy Access</span> to Swift E-Wallet</li>
-                                <li><span>Compound</span> Benefits </li>
+                                <li><span></span> Swift Digital Banking </li>
+                                <li><span></span> D-Trade</li>
+                                <li><span></span> Swift E-Wallet</li>
+                                <li><span></span>Compound Benefits </li>
 
-                                <li><span>Access</span> Newsletter</li>
+                                <li><span></span> News and Analysis</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>
@@ -117,15 +117,15 @@
                         <div class="generic_feature_list">
                         	<ul>
 
-                                <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> Swift Investments Group </li>
-                                <li><span>Access</span> D-Trade</li>
-                                <li><span>Easy Access</span> to Swift E-Wallet</li>
+                                <li><span></span> Swift Digital Banking </li>
+                                <li><span></span> Swift Investments Group </li>
+                                <li><span></span> D-Trade</li>
+                                <li><span> </span> Swift E-Wallet</li>
 
-                                <li><span>Compound</span> Benefits </li>
+                                <li><span></span>Compound Benefits </li>
+                                <li><span></span>Long-Term Gains</li>
+                                <li><span></span> News and Analysis</li>
 
-                                <li><span>Long-Term</span> Gains</li>
-                                <li><span>100%</span> Disciplined Saving</li>
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>
@@ -177,17 +177,18 @@
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                         	<ul>
-                                <li><span>Access</span> Swift Digital Banking </li>
-                                <li><span>Access</span> Swift Investments Gruop </li>
-                                <li><span>Access</span> Swift Asset Management </li>
+                                <li><span></span> Swift Digital Banking </li>
+                                <li><span></span> Swift Investments Gruop </li>
+                                <li><span></span> Swift Asset Management </li>
 
-                                <li><span>Easy Access</span> to Swift E-Wallet</li>
+                                <li><span> </span> Swift E-Wallet</li>
 
-                                <li><span>Access</span> D-Trade</li>
-                                <li><span>Compound</span> Benefits </li>
+                                <li><span></span> D-Trade</li>
+                                <li><span></span>Compound Benefits </li>
                                 
-                                <li><span>Long-Term</span> Gains</li>
-                                <li><span>100%</span> Disciplined Saving</li>
+                                <li><span></span>Long-Term Gains</li>
+                                <li><span></span> News and Analysis</li>
+                                
                                 <li><span>24/7</span> Support</li>
                             </ul>
                         </div>

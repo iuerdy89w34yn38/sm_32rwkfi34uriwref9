@@ -79,7 +79,7 @@
 
 
                     <li >
-                      <a href="index#contactus"></span>Contact Us</a>
+                      <a href="contactus"></span>Contact Us</a>
                     </li>
 
 
