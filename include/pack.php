@@ -70,7 +70,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
+                        	<a class="" href="login">Sign up</a>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -133,7 +133,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
+                        	<a class="" href="login">Sign up</a>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -194,7 +194,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
+                        	<a class="" href="login">Sign up</a>
                         </div>
                         <!--//BUTTON END-->
                         

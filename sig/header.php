@@ -47,7 +47,7 @@
                     <li  class="dropdown">
                       <a href="login"></span>Platform</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#"><img src="images/d.png" width="30px"> D-Trade</a></li>
+                        <li><a href="#"> D-Trade</a></li>
                       </ul>
 
                     </li>
@@ -76,7 +76,7 @@
 
 
                     <li class="apply_now">
-                      <a href="login"></span>Login / Signup</a>
+                      <a href="login"  target="blank"></span>Login / Signup</a>
                     </li>
 
 
@@ -115,12 +115,12 @@
 .header .navbar-nav li.dropdown .dropdown-menu li a {
     font-size: 13px;
     font-weight: 900;
-    color: #fff;
+    color: #000;
 }
 
 .header .navbar-nav li.dropdown .dropdown-menu {
     min-width: 200px;
-    background: #000;
+    background: #b5b5b5;
   }
 
 .mimg{
@@ -130,10 +130,6 @@
 .navbar-nav li.dropdown .dropdown-menu li a {
     border: none;
     text-align: center;
-    font-weight: 900;
-}
-.header .navbar-nav li.dropdown .dropdown-menu li a {
-    font-size: 13px;
     font-weight: 900;
 }
 
