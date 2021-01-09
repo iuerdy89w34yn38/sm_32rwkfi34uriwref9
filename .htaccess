@@ -10,6 +10,7 @@ RewriteRule ^(home)$ index.php
 RewriteRule ^(index)$ index.php
 RewriteRule ^(contactus)$ contacts.php
 RewriteRule ^(login)$ login.php
+RewriteRule ^(wallet)$ wallet.php
 RewriteRule ^(digital-banking)$ sdb.php
 RewriteRule ^(investment-group)$ sig.php
 RewriteRule ^(assets-management)$ sam.php

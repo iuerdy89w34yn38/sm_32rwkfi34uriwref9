@@ -65,7 +65,7 @@
 
 
                     <li  class="dropdown">
-                      <a href="index#products"></span>Wallet</a>
+                      <a href="wallet"></span>Wallet</a>
                       <ul class="dropdown-menu">
                         <li><a href="#">Swift (E-Wallet)</a></li>
                       </ul>
