@@ -31,9 +31,9 @@
                     <li class="dropdown"  >
                       <a href="index#products"></span>Products</a>
                         <ul class="dropdown-menu">
-                        <li><a href="digital-banking">Swift Digital Banking</a></li>
-                        <li><a href="investment-group">Swift Investments Group</a></li>
-                        <li><a href="assets-management">Swift Asset Management</a></li>
+                        <li><a target="_blank" href="digital-banking">Swift Digital Banking</a></li>
+                        <li><a target="_blank" href="investment-group">Swift Investments Group</a></li>
+                        <li><a target="_blank" href="assets-management">Swift Asset Management</a></li>
                       </ul>
 
 
@@ -55,9 +55,9 @@
 
 
                     <li  class="dropdown">
-                      <a href="index#products"></span>Platform</a>
+                      <a target="_blank" href="index#products"></span>Platform</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">D-Trade</a></li>
+                        <li><a target="_blank" href="#">D-Trade</a></li>
                       </ul>
 
                     </li>
@@ -67,7 +67,7 @@
                     <li  class="dropdown">
                       <a href="wallet"></span>Wallet</a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">Swift (E-Wallet)</a></li>
+                        <li><a href="wallet">Swift (E-Wallet)</a></li>
                       </ul>
 
                     </li>
@@ -79,7 +79,7 @@
 
 
                     <li >
-                      <a href="contactus"></span>Contact Us</a>
+                      <a target="_blank" href="contactus"></span>Contact Us</a>
                     </li>
 
 

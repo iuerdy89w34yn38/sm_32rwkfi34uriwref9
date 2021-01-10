@@ -238,6 +238,11 @@
 
 
 
+
+    <?php include 'include/news.php'; ?>
+
+
+
    
 
 

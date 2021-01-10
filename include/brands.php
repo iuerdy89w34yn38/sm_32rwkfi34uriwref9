@@ -26,14 +26,16 @@
     });
 });
 </script>
+
+
 <div class="container">
   <h2>Our  Products </h2>
     <br><br>
 
    <section class="customer-logos slider">
-      <div class="slide"><a href="digital-banking"><img src="images/products/logosdb.png"></a></div>
-      <div class="slide"><a href="investment-group"><img src="images/products/logosig.png"></a></div>
-      <div class="slide"><a href="assets-management"><img src="images/products/logosam.png"></a></div>
+      <div class="slide"><a target="_blank" href="digital-banking"><img src="images/products/logosdb.png"></a></div>
+      <div class="slide"><a target="_blank" href="investment-group"><img src="images/products/logosig.png"></a></div>
+      <div class="slide"><a target="_blank" href="assets-management"><img src="images/products/logosam.png"></a></div>
  
    </section>
    
