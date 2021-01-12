@@ -40,7 +40,9 @@ error_reporting(false);
 		<!-- Content
 		============================================= -->
 		<section id="content"  style="background:url(images/cbg.jpg);background-position: bottom; background-size: cover; min-height: 420px">
-
+<br>
+<center>       <h2 class="text-center" style="font-size: 15px;  color: #02aeee;">  
+       Please get in touch using the details below if you have any questions about our service or products. </h2></center>
 			<div class="content-wrap">
 
 				<div class="container clearfix">
@@ -71,10 +73,7 @@ error_reporting(false);
 									<div class="card-body" style="padding: 40px;">
 										<form action="" method="post">
 								
-											<h1 class="text-center">
-       <h2 class="text-center" style="font-size: 15px;  color: #02aeee;">   WE ARE READY TO LEAD YOU INTO THE FUTURE </h2>
-       <br>
-        </h1>
+
         <form >
           <div class="form-group">
             <input class="form-control cform" name="name" placeholder="‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏Enter Your Name" type="text">
@@ -94,6 +93,14 @@ error_reporting(false);
           </div>
           
         </form>
+
+        <div class="text-center">
+        	<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+<a href="#" class="fa fa-linkedin"></a>
+
+</div>
 
 
 									</div>
@@ -116,7 +123,126 @@ error_reporting(false);
 			</div>
 
 		</section><!-- #content end -->
+<style>
+.fa {
+    padding: 8px 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
 
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+</style>
 
 
 		<!-- Footer

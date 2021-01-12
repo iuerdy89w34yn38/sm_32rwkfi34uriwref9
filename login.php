@@ -44,6 +44,7 @@ error_reporting(false);
 		<section id="content" style="background:url(images/cbg.jpg);background-position: bottom; background-size: cover; min-height: 430px">
 
 <br>
+<center> <p style="font-size: 15px;color: #02aeee;font-weight: 700">WE ARE READY TO LEAD YOU INTO THE FUTURE</p></center>
 			<div class="content-wrap">
 
 				<div class="container clearfix">
