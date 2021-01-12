@@ -36,13 +36,14 @@ error_reporting(false);
 	
 
  <div class="img">
-            <img src="images/covers/c.jpg" style="width: 100%">
+             <img src="images/cvr.png" style="width: 100%">
 
           </div>
 		<!-- Content
 		============================================= -->
-		<section id="content">
+		<section id="content" style="background:url(images/cbg.jpg);background-position: bottom; background-size: cover; min-height: 430px">
 
+<br>
 			<div class="content-wrap">
 
 				<div class="container clearfix">

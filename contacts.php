@@ -32,7 +32,6 @@ error_reporting(false);
 		============================================= -->
 		<?php //	include 'include/header.php'; ?>
 
-	
 
  <div class="img">
             <img src="images/cvr.png" style="width: 100%">
